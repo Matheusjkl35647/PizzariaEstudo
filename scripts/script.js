@@ -18,3 +18,6 @@ animeScroll()
 window.addEventListener("scroll", () => {
     animeScroll();
 })
+
+/* Desenvolvido e criado por Matheus Jhonatan dos Santos
+User for Github: Matheusjkl35647 */
